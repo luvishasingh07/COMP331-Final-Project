@@ -1,0 +1,9 @@
+,value
+n_rows,32561.0
+n_cols,15.0
+columns_with_missing,3.0
+max_missing_pct,5.660145572924664
+income_>50K_pct,24.080955744602438
+income_<=50K_pct,75.91904425539757
+male_pct,66.92054912318419
+female_pct,33.07945087681583
