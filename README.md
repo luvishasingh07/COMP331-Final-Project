@@ -7,6 +7,8 @@ This repository contains the analysis notebook, figures, and results for my COMP
 - `notebooks/analysis.ipynb`
 - `figures/`
 - `results/`
-
+- `data/`
+- `scripts/`
+  
 ## Google Colab Notebook
 Link to the notebook: https://colab.research.google.com/drive/1qAA8LcwGiTmPOKB5VQ_1KZUOatkWzSC6
